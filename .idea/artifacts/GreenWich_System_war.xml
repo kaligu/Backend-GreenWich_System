@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GreenWich_System:war">
+    <output-path>$PROJECT_DIR$/GreenWich_System/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>GreenWich_System</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="GreenWich_System-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="GreenWich_System:war exploded" />
+    </root>
+  </artifact>
+</component>
